@@ -1,0 +1,9 @@
+QR AKSES WEBSITE UNTUK DEWAN JURI
+
+Website ini saat ini berjalan secara lokal. Agar QR dapat dibuka oleh juri di perangkat mereka, website harus dipublikasikan terlebih dahulu dan memiliki URL publik.
+Jangan gunakan QR yang mengarah ke file lokal atau localhost karena tidak akan bisa dibuka dari perangkat lain.
+
+Panduan resmi GitHub Pages:
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+Setelah website dipublikasikan, gunakan URL publiknya untuk membuat QR yang valid.
